@@ -1,4 +1,5 @@
 # Tinitiate UNIX Shell Scripting 
+![Unix Tinitiate Image](unix-tinitiate-image.png)
 > (c) TINITIATE
 
 ## Basic UNIX Shell Scripting
