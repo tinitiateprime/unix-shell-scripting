@@ -50,8 +50,6 @@
 - Iterating over arrays
 - Sequences and patterns in loop statements
 
-## [Special Operators](special-operators.md)
-
 ### [Arithmetic Operators](arithmetic-operators.md)
 - Basic arithmetic operations (`+`, `-`, `*`, `/`, `%`)
 - Advanced arithmetic with `expr` and `bc`
@@ -95,8 +93,6 @@
 - Running commands in the background using `&` and `nohup`
 - Signals and traps (catching interrupts)
 - Managing user permissions with `su` and `sudo`
-
-## Advanced UNIX Shell Scripting
 
 ### [Scripting for Automation Crontab](unix-crontab.md)
 - Automating system tasks
